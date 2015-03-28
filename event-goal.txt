@@ -1,4 +1,4 @@
 To do actual, tangible work: written idea proposals, designs/mockups, new docs,
 code, and/or new tools or processes. The goal is to produce something tangible
-at the end of the five days. We want anyone and and everyone to be able to
+at the end of the three days. We want anyone and and everyone to be able to
 participate, share their idea/feature/product, and work on it with others.
